@@ -1,0 +1,25 @@
+{
+  "name": "create-blockchain-with-typeScript",
+  "version": "1.0.0",
+  "description": "[노마드 코더] Typescript로 블록체인 만들기 강의를 통해 공부하는 레포지토리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinWooPark-dotcom/create-blockchain-with-typeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinWooPark-dotcom/create-blockchain-with-typeScript/issues"
+  },
+  "homepage": "https://github.com/MinWooPark-dotcom/create-blockchain-with-typeScript#readme",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
