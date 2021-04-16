@@ -18,7 +18,9 @@
     "url": "https://github.com/MinWooPark-dotcom/create-blockchain-with-typeScript/issues"
   },
   "homepage": "https://github.com/MinWooPark-dotcom/create-blockchain-with-typeScript#readme",
-  "dependencies": {},
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
   "devDependencies": {
     "@types/node": "^14.14.37",
     "ts-node": "^9.1.1",
